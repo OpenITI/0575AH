@@ -11,7 +11,7 @@ I chose shamela. Good structure and all 13 volumes, while JK is missing half of 
 
 ## 2. Which edition you used for collation? How close the text to the edition? Is pagination the same?
 
-https://archive.org/stream/WAQ159811/02_159812#page/n0/mode/2up
+https://archive.org/details/WAQ159811
 pagination is the same
 
 ## 3. Have you noticed any typos? If yes, how many? (Guesstimate is fine)
@@ -20,8 +20,7 @@ Type your response here.
 
 ## 4. Add any comments on the text
 
-Type your response here
-
+skimmed through the text and pdfs, text seemed to be finished already
 ## 5. ...
 
 ## Comments by : [Jonas Koepsel]
