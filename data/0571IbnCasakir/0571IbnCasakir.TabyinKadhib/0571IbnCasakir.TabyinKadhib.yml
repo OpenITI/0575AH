@@ -1,7 +1,8 @@
-00#BOOK#URI######: 0568IbnZafar.AnbaNujabaAbna
+00#BOOK#URI######: 0571IbnCasakir.TabyinKadhib
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
-10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+10#BOOK#TITLEA#AR: Tabyīn kaḏib al-muftarī fīmā nusiba ilá al-ʾImām Abī al-Ḥasan
+    al-Ašʿarī
+10#BOOK#TITLEB#AR:
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
