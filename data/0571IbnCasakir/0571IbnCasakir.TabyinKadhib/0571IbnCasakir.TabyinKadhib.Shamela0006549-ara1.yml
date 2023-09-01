@@ -6,6 +6,9 @@
 80#VERS#LINKS####: https://archive.org/details/2093Pdf_201812
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: The digital version is a reprint of the PDF. 2- Find a
-    manuscript of the text here: https://archive.org/details/TabyinKathib_Mkhtut
+        manuscript of the text here: https://archive.org/details/TabyinKathib_Mkhtut
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2022-07-12
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

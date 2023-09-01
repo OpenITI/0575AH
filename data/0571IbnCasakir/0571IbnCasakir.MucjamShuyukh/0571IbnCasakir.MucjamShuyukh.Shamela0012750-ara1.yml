@@ -5,6 +5,8 @@
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/236026142
 80#VERS#LINKS####: https://archive.org/details/waq48802
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: 
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-07-02
-90#VERS#ISSUES###: EDITORIAL_SECTIONS, PAGINATION, HTML_TAGS
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PAGINATION, HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION

@@ -6,9 +6,12 @@
 80#VERS#LINKS####: https://k-tb.com/book/hadeeth4157-الفوائد-الحسان-عن-الشيوخ-الثقات--مشيخة-أبي-بكر-بن-النقور
 90#VERS#ANNOTATOR: LMN
 90#VERS#COMMENT##: Pagination corrected by annotator;
-    Shamela0026665-ara1 includes text passages from another manuscript that
-    have been added by the editor in square brackets on pp. 50, 88, 90, 94;
-    the samāʿāt found on pp. 96-97 of the print edition are not found in
-    Shamela0026665-ara1
+        Shamela0026665-ara1 includes text passages from another manuscript that
+        have been added by the editor in square brackets on pp. 50, 88, 90, 94;
+        the samāʿāt found on pp. 96-97 of the print edition are not found in
+        Shamela0026665-ara1
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-04-14
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

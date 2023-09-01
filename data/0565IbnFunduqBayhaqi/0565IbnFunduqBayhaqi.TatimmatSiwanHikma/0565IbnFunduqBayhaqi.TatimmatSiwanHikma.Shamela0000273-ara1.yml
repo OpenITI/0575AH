@@ -3,10 +3,13 @@
 00#VERS#URI######: 0565IbnFunduqBayhaqi.TatimmatSiwanHikma.Shamela0000273-ara1
 80#VERS#BASED####: NO_DATA_IN_METADATA
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/863495115
-80#VERS#LINKS####:
-    https://ia801903.us.archive.org/17/items/Islaam_20161228_1447/تتمة صوان الحكمة
-    ظهير الدين أبي الحسن علي بن أبي القاسم زيد البيهقي.pdf
+80#VERS#LINKS####: 
+        https://ia801903.us.archive.org/17/items/Islaam_20161228_1447/تتمة صوان الحكمة
+        ظهير الدين أبي الحسن علي بن أبي القاسم زيد البيهقي.pdf
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: Pages 175-6 in the PDF are missing.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-06-30
-90#VERS#ISSUES###: MISSING_PARTS
+90#VERS#ISSUES###: MISSING_PARTS, PRIMARY_VERSION, CLEANED_VERSION

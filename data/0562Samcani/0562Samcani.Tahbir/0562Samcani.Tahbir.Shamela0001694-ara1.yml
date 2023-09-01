@@ -6,8 +6,11 @@
 80#VERS#LINKS####: https://archive.org/details/45852215
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: PageV02P140 is missing. 2- There is appendix at the
-    end of the book which includes the small fragments collected by the
-    editor from other sources.
+        end of the book which includes the small fragments collected by the
+        editor from other sources.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-06-29
 90#VERS#ISSUES###: HTML_TAGS, MISSING_PARTS, EDITORIAL_SECTIONS,
-    APPENDIX
+        APPENDIX, PRIMARY_VERSION, CLEANED_VERSION
