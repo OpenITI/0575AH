@@ -13,6 +13,7 @@
 30#AUTH#DIED###AH: 0569-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q12228305
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "ʿUmāra al-Yamanī, Abū Ḥamza b.  ʿAlī b. Aḥmad
     al-Ḥakamī, Nad̲j̲m al-Dīn,  Arabic poet and prose writer, b. 515/1121 at

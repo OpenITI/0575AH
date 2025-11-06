@@ -14,5 +14,6 @@
 30#AUTH#DIED###AH: 0571-RAJ-11
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q565665
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI3: "Born in Muḥarram 499/September 1105, he began his pursuit of religious education at an early age ...": http://dx.doi.org/10.1163/1573-3912_ei3_COM_30705
